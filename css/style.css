@@ -46,7 +46,7 @@ p {
 }
 h2 {
 	font-size:15px;
-	color:#353535!important;
+	color:black!important;
 	text-transform:uppercase;
 	font-weight:bold;
 }
@@ -59,13 +59,13 @@ h2::after {
 }
 h6 {
 	font-size:15px;
-	color:#8c8c8c;
+	color:black;
 	text-transform:uppercase;
 	font-weight:bold;
 }
 h6::after {
 	content:" ";
-	border:solid 1px #CCCCCC;
+	border:solid 1px black;
 	display:block;
 	width:65px;
 	margin-top: 20px;
