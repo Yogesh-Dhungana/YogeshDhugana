@@ -70,6 +70,22 @@ h6::after {
 	width:65px;
 	margin-top: 20px;
 }
+
+.experience-title {
+	font-size: 16px;
+}
+
+.experience-title small {
+	color: #d8d8d8;
+}
+
+.text-white {
+	color: white !important;
+}
+
+.text-dark {
+	color: black !important;
+}
 /* ==========================================================================HTML5 display definitions========================================================================== */
 article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary {
 	display:block;
